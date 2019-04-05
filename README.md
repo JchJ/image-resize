@@ -1,5 +1,5 @@
 ## Getting Started
-* Linux resize image
+* Python resize image
 
 ### Prerequisites
 * Python
